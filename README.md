@@ -1,4 +1,6 @@
-learnBackbone
-=============
+Learn Backbone
+==============
 
-Repo to learn Backbone js
+The objective of this repo is to learn BackboneJS and other javascript libs + frameworks
+
+
